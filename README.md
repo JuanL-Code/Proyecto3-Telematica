@@ -39,4 +39,21 @@
 
 <img width="1121" alt="Screen Shot 2022-06-10 at 11 54 16 PM" src="https://user-images.githubusercontent.com/68828858/173173238-dcbbff40-49dd-4e2e-9662-7bbe965b1059.png">
 
+## 3.1 Top 10 Departamentos por contagios de mayor a menor
+
+![Screen Shot 2022-06-11 at 12 47 39 PM](https://user-images.githubusercontent.com/68828858/173199189-ecc0ea50-31a7-4038-81a2-9a9f078c9c3c.png)
+
+## 3.2 Top 10 Ciudades por contagios de mayor a menor
+
+![Screen Shot 2022-06-11 at 12 47 53 PM](https://user-images.githubusercontent.com/68828858/173199200-8975e244-7edf-4695-8ef9-ddfc3927270b.png)
+
+## 3.3 Top 10 Fechas casos covid de mayor a menor
+
+![Screen Shot 2022-06-11 at 12 48 13 PM](https://user-images.githubusercontent.com/68828858/173199216-23ec32b0-d2d3-40e2-ae0a-9c3f96b750dc.png)
+
+## 3.4 Distribucion de casos por edades
+
+![Screen Shot 2022-06-11 at 12 48 46 PM](https://user-images.githubusercontent.com/68828858/173199256-f861fb1b-31fa-4620-88ed-8e87349c5b7b.png)
+
+## 3.6 Pregunta de negocio: Como insentivar metodologias de autocuidado en personas con un rango de edad entre 20 y 35 años para asi conseguir una reduccion del 30% de los casos?
 
